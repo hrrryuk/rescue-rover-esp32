@@ -91,15 +91,15 @@ The system aims to improve accessibility and situational awareness in environmen
 
 ### Robot Overview
 
-![ResQ Rover](images/front.jpg)
+![ResQ Rover](images/front.jpeg)
 
 ### Hardware Setup
 
-![Hardware Setup](images/side.jpg)
+![Hardware Setup](images/side.jpeg)
 
 ### Robotic Arm
 
-![Robotic Arm](images/arm.jpg)
+![Robotic Arm](images/arm.jpeg)
 
 ## Demo Video
 
