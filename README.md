@@ -128,6 +128,10 @@ The project successfully validates the feasibility of an intelligent rescue robo
 
 ---
 
+<p align="center">
+  <img src="images/hehe.jpeg" width="100%">
+</p>
+
 ## License
 
 This project is developed for educational and research purposes.
